@@ -1,7 +1,5 @@
 # Sublime Laravel Snippets
 
-[![Software License][ico-license]](LICENSE.md)
-
 This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what
 PSRs you support to avoid any confusion with users and contributors.
 
@@ -27,7 +25,7 @@ This repository contains a set of useful *snippets* that might ease the developm
 
 - `appends`: $appends atrribute (for accessors)
 - `with`: $with attribute
-º
+
 ### Form group
 
 A set of snippets for blade form-groups
@@ -55,8 +53,8 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) and [CONDUCT](CONDUCT.md) for details
 
 ## Credits
 
-- [José Cámara <jm@bittenbyte.io](https://github.com/josec89)
-- [All Contributors][link-contributors]
+- [José Cámara <jm@bittenbyte.io>](https://github.com/josec89)
+- [All Contributors](CONTRIBUTORS.md)
 
 ## License
 
