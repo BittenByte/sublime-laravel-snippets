@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+<div class="form-group">
+    {!! Form::label('$1', '$2', ['class' => 'control-label col-sm-2']) !!}
+
+    <div class="col-sm-10">
+        {!! Form::text('$1', old('$1'), ['class' => 'form-control datetimepicker']) !!}
+    </div>
+</div>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>fg-date</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.blade.php</scope> -->
+</snippet>

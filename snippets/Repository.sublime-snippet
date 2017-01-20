@@ -1,0 +1,27 @@
+<snippet>
+    <content><![CDATA[
+<?php
+
+namespace ${2:App}\Repositories\\${1};
+
+use ${2:App}\\${1};
+use ${2:App}\Repositories\EloquentCrudRepository;
+
+class Eloquent$1Repository extends EloquentCrudRepository implements $1Repository
+{
+    /**
+     * Constructor
+     *
+     *  @param $1 \$model
+     */
+    public function __construct($1 \$model)
+    {
+        \$this->model = \$model;
+    }
+}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>repository</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.php</scope> -->
+</snippet>
