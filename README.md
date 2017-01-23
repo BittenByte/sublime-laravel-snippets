@@ -42,7 +42,11 @@ A set of snippets for blade form-groups
 - `db-fk`: New *foreign key* column
 - `db-boolean`: New *boolean* column
 
+### HTML
 
+- `html5-clear`: Clear HTML5 template
+- `vue-html`: Clear Vue.js / HTML5 template (including CDN)
+ 
 ###
 
 ## Change log
@@ -54,6 +58,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) and [CONDUCT](CONDUCT.md) for details
 ## Credits
 
 - [José Cámara <jm@bittenbyte.io>](https://github.com/josec89)
+- [José H. Milán <jose@bittenbyte.io>](https://github.com/jhmilan)
 - [All Contributors](CONTRIBUTORS.md)
 
 ## License
