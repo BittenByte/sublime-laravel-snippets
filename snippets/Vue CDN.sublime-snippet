@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+<script src="https://unpkg.com/vue${1:@2.1.10}/dist/vue.js"></script>
+<script src="${2:js/app.js}"></script>
+
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>vue-cdn</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>
