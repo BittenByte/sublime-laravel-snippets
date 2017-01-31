@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+<meta charset="${1:UTF-8}">
+<title>$2</title>
+<link rel="stylesheet" href="${3:style.css}">
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>metas</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>
